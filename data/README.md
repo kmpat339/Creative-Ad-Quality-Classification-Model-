@@ -1,0 +1,1 @@
+Place your training images inside class‑named sub‑directories (e.g., `low_quality/`, `ok/`).
